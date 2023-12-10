@@ -1,0 +1,19 @@
+body {
+    background-color: aqua;
+}
+h1 {
+    text-align: center;
+    padding: 20px;
+}
+.co {
+    text-align: center;
+}
+.links {
+    text-align: center;
+    display: flex;
+    justify-content:space-around;
+    padding: 20px;
+}
+img {
+    max-width: 100%;
+}
